@@ -1,1 +1,3 @@
 This is my first file
+
+FEATURE 1 : This is a new feature.
