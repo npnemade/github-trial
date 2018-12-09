@@ -1,3 +1,1 @@
-This is my first file.
-
-I will now add text to it.
+This is my first file
